@@ -1,0 +1,20 @@
+navbar:
+  blog_title: March的博客
+
+dark_mode:
+  enable: true
+  default: light
+custom_css:
+  - /css/custom.css
+
+index:
+  banner_img: "/img/bg.jpg"
+  slogan:
+    enable: true
+    text: 随手记录
+    api:
+      enable: false
+      url: "https://v1.hitokoto.cn/"
+      method: "GET"
+      headers: {}
+      keys: ["hitokoto"]

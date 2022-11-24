@@ -2,6 +2,7 @@
 title: React Schedule
 date: 2022-11-20 11:42:08
 categories: React
+index_img: /img/react-logo.png
 ---
 
 
